@@ -1,0 +1,1 @@
+Neste programa o usuário deve digitar o número ao qual deseja ver a tabuada, após isso ele ainda pode selecionar o início e fim da tabuada do respectivo número, podendo listar qualquer trecho da tabuada de qualquer número.
